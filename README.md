@@ -1,7 +1,7 @@
 # 🐍 Bro Code Python Notes - aka my brain dump  
 bro code talks. i write. sometimes i understand. these are those... notes? sure. more like a stream of consciousness while i pretend to learn python. might be useful, might not. includes code snippets, explanations (kinda), and probably a bunch of unnecessary comments. read at your own risk. 🚀🔥  p.s. if something’s wrong, no it’s not.
 
-**welcome.** these are my python notes from bro code’s course. they are unorganized. they are messy. but they exist, and that’s what matters.  
+**welcome.** these are my python notes from bro code’s course. they are unorganized. they are messy. but they exist, and that’s what matters. 
 
 ## 🚀 what’s inside?  
 ✅ **code snippets** – mostly functional, occasionally cursed  
